@@ -11,5 +11,6 @@ public class Test1 {
         System.out.println("hot-fix2-1");
         System.out.println("push test");
         System.out.println("push test2");
+        System.out.println("push test3");
     }
 }
